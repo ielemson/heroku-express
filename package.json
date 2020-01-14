@@ -1,0 +1,22 @@
+{
+  "name": "heroku-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielemson/heroku-express.git"
+  },
+  "author": "ielemson@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielemson/heroku-express/issues"
+  },
+  "homepage": "https://github.com/ielemson/heroku-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
